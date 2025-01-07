@@ -2,3 +2,6 @@
 this is first file 
 
 adding another section to the file1
+added some content for the section first
+
+adding section second to the file
